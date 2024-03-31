@@ -1,0 +1,18 @@
+.small-font {
+    font-size: 14px; /* Adjust the font size as needed */
+}
+
+/* Apply font size to select element */
+select.small-font {
+    font-size: 14px; /* Adjust the font size as needed */
+}
+
+/* Apply font size to option elements within select */
+select.small-font option {
+    font-size: 14px; /* Adjust the font size as needed */
+}
+
+/* Apply font size to input elements */
+input.small-font {
+    font-size: 14px; /* Adjust the font size as needed */
+}
